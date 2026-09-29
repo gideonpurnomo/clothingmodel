@@ -44,6 +44,7 @@ A shopper can see a real garment they're considering, in 3D on a body like their
 ## Context
 
 - Origin: brainstorm session (2026-09-25) converged on the "Option C" MVP — guided front + back photos for high-fidelity 3D without AI guessing what the back looks like
+- **Git convention: push to GitHub (`origin/master`, github.com/gideonpurnomo/clothingmodel) after every completed phase or major area of work** — user-requested progress publishing
 - Primary users: online clothing shoppers who want fit/look confidence before buying from any store
 - **No API keys exist yet** — Meshy/Tripo (3D generation, ~$0.20–0.40/garment) and an LLM provider (size extraction) accounts must be created during development. Phases requiring keys must flag this clearly.
 - The 3D generation pipeline is asynchronous (minutes per garment) — queue, job status UI, and notifications are core, not extras
