@@ -98,13 +98,36 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| (to be filled by roadmap) | | |
+| VIEW-01 | Phase 1 | Pending |
+| VIEW-02 | Phase 1 | Pending |
+| VIEW-03 | Phase 1 | Pending |
+| VIEW-05 | Phase 1 | Pending |
+| AUTH-01 | Phase 2 | Pending |
+| AUTH-02 | Phase 2 | Pending |
+| AUTH-03 | Phase 2 | Pending |
+| INTAKE-01 | Phase 2 | Pending |
+| GEN-01 | Phase 3 | Pending |
+| GEN-02 | Phase 3 | Pending |
+| GEN-03 | Phase 3 | Pending |
+| GEN-04 | Phase 3 | Pending |
+| QUOTA-01 | Phase 3 | Pending |
+| QUOTA-02 | Phase 3 | Pending |
+| FIT-02 | Phase 4 | Pending |
+| FIT-04 | Phase 4 | Pending |
+| FIT-01 | Phase 5 | Pending |
+| FIT-03 | Phase 5 | Pending |
+| FIT-05 | Phase 5 | Pending |
+| LIB-01 | Phase 6 | Pending |
+| LIB-02 | Phase 6 | Pending |
+| INTAKE-02 | Phase 6 | Pending |
+| VIEW-04 | Phase 6 | Pending |
+| PLAT-01 | Phase 6 | Pending |
 
 **Coverage:**
-- v1 requirements: 23 total
-- Mapped to phases: 0
-- Unmapped: 23 ⚠️ (pending roadmap creation)
+- v1 requirements: 24 total (corrected from 23 — recount: AUTH 3, INTAKE 2, GEN 4, VIEW 5, FIT 5, LIB 2, QUOTA 2, PLAT 1)
+- Mapped to phases: 24
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-09-28*
-*Last updated: 2026-09-28 after initial definition*
+*Last updated: 2026-09-29 after roadmap creation (traceability filled)*
